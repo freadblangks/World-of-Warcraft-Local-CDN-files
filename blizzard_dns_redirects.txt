@@ -1,0 +1,21 @@
+ngdp.arctium.io	//Who needs king fabi? nobody!
+status.wow-europe.com
+us.patch.battle.net
+eu.patch.battle.net
+level3.blizzard.com
+eu.cdn.blizzard.com
+blzddist1-a.akamaihd.net
+us.actual.battle.net
+eu.actual.battle.net
+level3.ssl.blizzard.com
+download.blizzard.com.c.footprint.net
+dist.blizzard.com
+dist.blizzard.com.edgesuite.net
+blizzard.vo.llnwd.net
+blzddist2-a.akamaihd.net
+blzddist3-a.akamaihd.net
+level3.blizzard.com
+nydus.battle.net
+edge.blizzard.top.comcast.net
+cdn.blizzard.com
+*.cdn.blizzard.com
